@@ -4,7 +4,7 @@ My name is Damien, i'm a Technical Programmer (C#) and Game Developer specializi
 
 Im currently working on a 2D platformer in Unity dubbed "Fish Game"
 
-Software and Stack:
+# Software and Stack:
 
 1. Unity3D
 2. C#
@@ -15,6 +15,6 @@ Software and Stack:
 7. Adobe Illustrator
 8. Adobe Photoshop
 
-How you can reach me: 
+# How you can reach me: 
 
-# istarnightstudios@outlook.com
+istarnightstudios@outlook.com
