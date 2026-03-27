@@ -2,8 +2,8 @@
 
 ### My name is Damien, i'm a Technical Programmer (C#) and Game Developer specializing in Unity3D
 
-I make games in Unity3D and have currently made (3) complete games posted on my [Itch.io](https://starnightstudios.itch.io/),
-You can see my Game Jam Submissions [HERE](https://damienzemanekprojects.carrd.co/) where I led & collaborated with a team to create assets that I implemented and programmed into Unity.
+- I make games in Unity3D and have currently made (3) complete games posted on my [Itch.io](https://starnightstudios.itch.io/),
+- You can see my Game Jam Submissions [HERE](https://damienzemanekprojects.carrd.co/) where I led & collaborated with a team to create assets that I implemented and programmed into Unity.
 
 ### Primary Strengths
 
