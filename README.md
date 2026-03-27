@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-My name is Damien, i'm a Technical Programmer (C#) and Game Developer specializing in Unity3D
+### My name is Damien, i'm a Technical Programmer (C#) and Game Developer specializing in Unity3D
 
-Im currently working on a 2D platformer in Unity dubbed "Fish Game"
+I make games in Unity3D and have currently made (3) complete games posted on my Itch.io,
+(2) of those games were Game Jam games where I led & collaborated with a team to create assets that I implemented and programmed into Unity.
+My game 'Grocery Oddyssy' won an award for "Best Sound Design" which I programmed in.
+
+### Primary Strengths
+
+1. Systems Architecture Design, + NUnit and UnityTesting
+2. Unity Gameplay Infrastructure
+4. Rapid technical and gameplay programming prototyping
 
 # Software and Stack:
 
