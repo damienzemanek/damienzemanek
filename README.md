@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**damienzemanek/damienzemanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Damien, i'm a Technical Programmer (C#) and Game Developer specializing in Unity3D
 
-Here are some ideas to get you started:
+# Im currently working on a 2D platformer in Unity dubbed "Fish Game"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Software and Stack:
+
+1. Unity3D
+2. C#
+3. Figma
+4. Trello
+5. Blender
+6. 3DsMax
+7. Adobe Illustrator
+8. Adobe Photoshop
+
+# How you can reach me: 
+
+## istarnightstudios@outlook.com
